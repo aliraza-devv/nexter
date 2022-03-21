@@ -1,2 +1,2 @@
 # nexter
-A responsive web design project with HTMLS5 and SASS.
+A responsive web design practice project with HTMLS5 and SASS.
